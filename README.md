@@ -2,7 +2,7 @@
 
 ## Welcome
 
-The official GitHub repository for the Audio-Video Vector Alignment (AVVA) project will be hosted at [https://github.com/microsoft/avva_audio_video_vector_alignment](https://github.com/microsoft/avva_audio_video_vector_alignment). The repository is currently under review by the Microsoft Open Source Committee and will be publicly released upon approval. Temporary files for ICASSP reviewers are included.
+The official GitHub repository for the Audio-Video Vector Alignment (AVVA) project will be hosted at [https://github.com/microsoft/avva_audio_video_vector_alignment](https://github.com/microsoft/avva_audio_video_vector_alignment). The repository is currently under review by the Microsoft Open Source Committee and will be publicly released upon approval. Temporary files for reviewers are included.
 
 ## About AVVA
 
