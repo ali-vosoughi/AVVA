@@ -37,7 +37,7 @@ If AVVA assists in your research, please cite our work using the following BibTe
 ```bibtex
 @inproceedings{vosoughi2025avva,
   title={AVVA: Audio-Video Vector Alignment on Unlabeled Data Curated with Multimodal Reasoning},
-  author={Vosoughi, Ali and Emmanouilidou, Dimitra and Hannes, Hannes},
+  author={Vosoughi, Ali and Emmanouilidou, Dimitra and Gamper, Hannes},
   booktitle={},
   pages={},
   year={2025},
